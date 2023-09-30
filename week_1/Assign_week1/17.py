@@ -1,0 +1,2 @@
+import numpy as np
+print(np.arange(0, 17, 0.2))

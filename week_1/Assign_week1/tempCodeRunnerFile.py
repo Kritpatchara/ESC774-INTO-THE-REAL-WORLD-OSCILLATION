@@ -1,0 +1,1 @@
+u2 = float(input("Initial speed (m/s): "))
